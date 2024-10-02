@@ -36,3 +36,9 @@
 ## Final Dashboard:
 ![Dashboard](https://github.com/user-attachments/assets/3a8ca27f-5a83-4c89-92f4-1cacb259cbea)
 
+### Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+```
+https://github.com/sandeepkumar96674/Flipkart_Sales_Data_Analysis
+```
+#### For more please connect with me on [LinkedIn](https://www.linkedin.com/in/the-sandeep-kumar)
+

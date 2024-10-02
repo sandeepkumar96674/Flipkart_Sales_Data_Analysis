@@ -21,23 +21,18 @@
 - Insight Generation
 ```
 ## Key Performance Indicator (KPI) Requirement:
-* Total Sale
 * Average Sale
-* Number of Items
+* Total Quantity Sold
 * Average Rating
+* Total Discount
+* Total Sales
 
 ## Data Cleaning Using `Power Query:`
 
 - Replace
-- New Measures for Calculation
-  - Average Sales
-  - Total Sales
-  - Average Rating
-  - Total Number of Items
+- Measures
+
  
 ## Final Dashboard:
 ![Dashboard](https://github.com/user-attachments/assets/3a8ca27f-5a83-4c89-92f4-1cacb259cbea)
 
-
-
-`Inserted Icons for better Visualization`

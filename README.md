@@ -36,7 +36,8 @@
   - Total Number of Items
  
 ## Final Dashboard:
-![Screenshot 2024-08-28 034913](https://github.com/user-attachments/assets/51daf74d-b712-4ef1-ae4e-1ac1d3705429)
+![Dashboard](https://github.com/user-attachments/assets/3a8ca27f-5a83-4c89-92f4-1cacb259cbea)
+
 
 
 `Inserted Icons for better Visualization`

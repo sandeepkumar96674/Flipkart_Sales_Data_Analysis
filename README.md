@@ -1,6 +1,6 @@
 ## Projece Name : Flipkart Sales Data Analysis
 
-## Get the Dataset and other resource from [here](https://drive.google.com/drive/folders/15NmWTYE_LBH7FLxh49RINvOzj_iCFGZC?usp=sharing) 
+## Get the Dataset from [here](https://docs.google.com/spreadsheets/d/1fG0d6i1mvZDDL8wHIIxaOk13pN53eoCg/edit?usp=drive_link&ouid=111381594262951028221&rtpof=true&sd=true) 
 
 ### About the Dataset:
 ![image](https://github.com/user-attachments/assets/fcd84f58-cff2-497e-ba1c-6ec0647f22d8)
